@@ -1,8 +1,11 @@
 # Projeto_final-M15
-Loja Online
-fiz o modelo DER
-A normalização 
-criei as tabelas
-inseri os dados 
-fiz as consultas
-e Tirei as prints
+Tema escolhido - Loja Online
+O projeto é composto pelo seguinte pacote de ficheiros:
+- modelo DER
+- normalização de tabelas
+- ficheiro com o código de criação de tabelas
+- ficheiro com código de inseri os dados 
+- ficheiro com as consultas em codigo
+- pasta zip com os prints
+
+validação do projeto
